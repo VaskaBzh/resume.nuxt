@@ -1,5 +1,10 @@
 # Nuxt 3 Minimal Starter
 
+```
+Проект с фриланса - докер здесь нестабильный. Проект запускается через npm run dev c node@^21 
+Для запросов нужно скопировать файл конфигурации (.env.example => .env)
+```
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
